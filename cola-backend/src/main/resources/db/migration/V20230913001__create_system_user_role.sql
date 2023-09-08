@@ -1,4 +1,4 @@
-create table platform.system_user_role
+create table sb2_template.system_user_role
 (
     id      bigint auto_increment comment '主键'
         primary key,

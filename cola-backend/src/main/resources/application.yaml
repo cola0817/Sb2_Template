@@ -1,3 +1,4 @@
 spring:
   profiles:
-    active: '@environment@'
+    active: dev
+#    active: '@environment@'

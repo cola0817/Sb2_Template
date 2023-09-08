@@ -1,5 +1,5 @@
 # 建表语句
-create table platform.system_user
+create table sb2_template.system_user
 (
     id           bigint auto_increment comment '主键'
         primary key,
