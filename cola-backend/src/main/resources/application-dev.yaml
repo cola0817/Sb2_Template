@@ -75,7 +75,7 @@ xxl:
       appname: colaXXJ
       address:
       ip: 127.0.0.1
-      port: 9999
+      port: 9898
       logpath: logs/xxl-job/jobhandler
       logretentiondays: 30
 
