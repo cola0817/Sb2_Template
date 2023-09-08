@@ -1,11 +1,25 @@
 {
-	"dataList":[],
-	"envList":[],
+	"dataList":[
+		{
+			"hostGroup":[
+				{
+					"env":"dev",
+					"url":"http://localhost:8081"
+				}
+			],
+			"name":"cola-backend"
+		}
+	],
+	"envList":[
+		"dev"
+	],
 	"headerList":[],
 	"maxDescriptionLength":-1,
 	"postScript":"",
 	"preScript":"",
-	"projectList":[],
+	"projectList":[
+		"cola-backend"
+	],
 	"syncModel":{
 		"branch":"master",
 		"domain":"https://github.com",
