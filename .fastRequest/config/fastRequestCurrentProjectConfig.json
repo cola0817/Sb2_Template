@@ -13,7 +13,13 @@
 	"envList":[
 		"dev"
 	],
-	"headerList":[],
+	"headerList":[
+		{
+			"enabled":true,
+			"type":"Authorization",
+			"value":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTQyNTM0MTIsInVzZXJJZCI6bnVsbCwidXNlcm5hbWUiOiIxMjAzOTUyODk0QHFxLmNvbSJ9.kG0pGDdczzxuQomFT1MfwKLt1Qs16VRAWuKrtGCACls"
+		}
+	],
 	"maxDescriptionLength":-1,
 	"postScript":"",
 	"preScript":"",
