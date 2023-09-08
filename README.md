@@ -41,9 +41,8 @@ SpringBoot2 模版项目
 
 ### 2.1 git
 
-clone
 ```cmd
-https://github.com/cola0817/Sb2_Template.git
+git clone https://github.com/cola0817/Sb2_Template.git
 ```
 
 ### 2.2 import maven dependencies
