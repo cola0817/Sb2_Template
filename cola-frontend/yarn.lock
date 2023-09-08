@@ -3563,10 +3563,10 @@ vue-tsc@^0.35.0:
   dependencies:
     "@volar/vue-typescript" "0.35.2"
 
-vue-yandex-maps@^0.12.3:
-  version "0.12.3"
-  resolved "https://registry.npmjs.org/vue-yandex-maps/-/vue-yandex-maps-0.12.3.tgz"
-  integrity sha512-xvj1GGavzrXCq40swfTgf7UK7uKXgb0flq45mlA70QSNPWvjiB0PXJGnc/Bz1tvu1M2nQix0AMqGfgTEesYs5w==
+vue-yandex-maps@^0.12.03:
+  version "0.12.7"
+  resolved "https://registry.yarnpkg.com/vue-yandex-maps/-/vue-yandex-maps-0.12.7.tgz#6c7fbc59af10d8cbe936ee129419bf39561b2383"
+  integrity sha512-xP9juQCF4MQvMUMcPUrPyHQoaKr4ULw/Z1Tcmte4nfcbelg1SXksROxAQYB2woz5EwSOnO5SEEigX0AkWE0suA==
 
 vue@^3.2.25:
   version "3.2.37"
